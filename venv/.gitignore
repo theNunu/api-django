@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+#*
+#archivos que se ignorararn al momento de guardar en git
+db.sqlite3
+venv
+__pycache__
